@@ -1,0 +1,1 @@
+# dice.tonconnect-manifest
